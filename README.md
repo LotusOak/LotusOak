@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-The Lotus Oak Foundation is dedicated to supporting projects that promote human thriving.
+The Lotus Oak Foundation is a Not-for-Profit Organization dedicated to supporting projects that promote human thriving.
+
 <!--
 **LotusOak/LotusOak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
